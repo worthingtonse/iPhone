@@ -13,31 +13,38 @@ Number | Color | Character | Verb | Place | Thing | Verb | Event
 7 | #00808 | Hippy         | Shopping | Desert      | Toy | Threw | Landslide
 8 | #00BFFF | Punk         | Reading  | Sea         | Pot | Hugged | Liffted
 9 | #191970 | Princess     | Drawing  | Jungle      | Wallet | Kissed | Fire
- 10 | #0000CD | Dentist |  |  |  |  |  
- 11 | #8A2BE2 | cyclops |  |  |  |  |  
-12  | #8B008B | Dragon |  |  |  |  |  
-13  | #FF1493| Unicorn |  |  |  |  |  
-14  |  	#FFE4C4 |bigfoot  |  |  |  |  |  
-15  | #D2691E | Viking |  |  |  |  |  
-16  | #BC8F8F |  Witch|  |  |  |  |  
-17  | #FFF0F5 | Robot |  |  |  |  |  
-18  | #708090 | Cheerleader |  |  |  |  |  
-19  |  	#778899 | Farmer |  |  |  |  |  
-20  |  	#000000 | Clown |  |  |  |  |  
-21  | #008000 | Solider |  |  |  |  |  
-22  |#00CED1  | Pirate |  |  |  |  |  
-23  | #1E90FF | scientist |  |  |  |  |  
-24  | #87CEFA | professor |  |  |  |  |  
-25  |#4B0082  |  King|  |  |  |  |  
-26  |#800080  | Giant |  |  |  |  |  
-27  | #FF00FF | Troll |  |  |  |  |  
-28  | #F5DEB3 | mermaid |  |  |  |  |  
-29  | #A0522D | Dinosaur |  |  |  |  |  
-30  | #696969 |Dwarf  |  |  |  |  |  
-31  | #CD853F | Vampire |  |  |  |  |  
-32  | #8B0000 | Magistion |  |  |  |  |  
+ 10 | #0000CD | Dentist | laughing | skyscraper | camera |lifted |War 
+ 11 | #8A2BE2 | cyclops | lounging | park | cell phone | rolled|tornato   
+12  | #8B008B | Dragon |  cooking| pond | glasses | sold |tsunami 
+13  | #FF1493| Unicorn |  digging|  sewer|  pen| dropped|heat wave  
+14  |  	#FFE4C4 |bigfoot  | thinking | dump | flashlight | broke| Plague   
+15  | #D2691E | Viking | dancing |  zoo| rock | poked | Miracle  
+16  | #BC8F8F |  Witch| sitting | theater | gold nugget | burried |Alien encouter   
+17  | #FFF0F5 | Robot |  dressing| bathroom | brick | lost |famine   
+18  | #708090 | Cheerleader | working |  Cave| brifcase | pocketed |infestation   
+19  |  	#778899 | Farmer | hiding | Palace | picture | washed |time warp   
+20  |  	#000000 | Clown |searching  | Carnival | statue | gifted |  Stench
+21  | #008000 | Solider | visiting | Party |  necklass| stole |  Ship Wreck
+22  |#00CED1  | Pirate | playing | Casino | chicken | displayed |  Oil SPill
+23  | #1E90FF | scientist |gardening| Post Office | forgot |  |  Grow
+24  | #87CEFA | professor | Sunbathing | Castle | ignored |  |  shrink
+25  |#4B0082  |  King| Drinking | Museum |  snake| smelled |  To Disapear
+26  |#800080  | Giant | gambling | Forest | hat| measured |  Revelution
+27  | #FF00FF | Troll | smoking | Well |  book| ran from |  Ice Age
+28  | #F5DEB3 | mermaid | flying | Dog House | wand  | left | mud slide
+29  | #A0522D | Dinosaur | Bird Watching | back yard | fairy | studied |  flood
+30  | #696969 |Dwarf  | Showering | Airport | flute | avoided |   lighting strike
+31  | #CD853F | Vampire | Talking | Football Field | lantern | licked |  animal attack,
+32  | #8B0000 | Magistion | Complaining | Gymnasium |  ring | punched |  drought
 
+lifted, rolled, dropped, broke, stabbed, bit, ate, lost,  yelled, 
+	currsed, studied, avoided, licked, punched
 
+Earthquake. , wreck, War, tornato, tsunami, 
+	heat wave, election, Stampeed, Plague, Miracle, beam of light, Alien encouter, famine, oil spill, infestation, time warp, lighting strike, THunder, flood, 
+	animal attack, silence, Party, murder, Sink holde, mud slide, drought, dictaorship, ship wreck. Metriorrite.  
+	Give the user a person, verb, place, thing that was adjitive, Event happened
+	
 EW LOGIN for IPHONE
 
 
