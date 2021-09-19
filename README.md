@@ -6,12 +6,12 @@ Number | Color | Character | Verb | Place | Thing | Verb | Event
 ---|---|---|---|---|---|---|---
 1 | #CC0000 | Minitar      | Swimming | Pyramid     | Bottle | Kicked | Explosion
 2 | #FF4500 | Doctor       | Running  | River       | Rabbit | Spit on | Solar Eclips
-3 | #FFD700 | Athelete     | Walking  | Mountain    | Skull | Looked at | Rain
-4 | #808000 | Business Man | Eating   | Effel Tower | watermellon | Touched | Snow
+3 | #FFD700 | Athelete     | Walking  | Mountain    | Skull | Looked at | Metior Shower
+4 | #808000 | Business Man | Eating   | Effel Tower | watermellon | Touched | Blizzard
 5 | #ADFF2F | Nerd         | Hunting  | Statue of Liberty | Doll House | Rubbed | Wind
 6 | #2F4F4F | Gangster     | Fishing  | Hills       | Flag | Sat On | Hurricane
 7 | #00808 | Hippy         | Shopping | Desert      | Toy | Threw | Landslide
-8 | #00BFFF | Punk         | Reading  | Sea         | Pot | Hugged | Liffted
+8 | #00BFFF | Punk         | Reading  | Sea         | Pot | Hugged | Heart atack
 9 | #191970 | Princess     | Drawing  | Jungle      | Wallet | Kissed | Fire
  10 | #0000CD | Dentist | laughing | skyscraper | camera |lifted |War 
  11 | #8A2BE2 | cyclops | lounging | park | cell phone | rolled|tornato   
