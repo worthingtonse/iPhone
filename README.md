@@ -1,6 +1,91 @@
 # iPhone
 Instructions for iPhone App
 
+The iPhone app will have 4 different states:
+
+1. First Time Initialization mode
+2. Login in password training mode
+3. Login in standard mode
+4. Dashboard Mode
+5. Importing mode
+6. Exporting mode
+7. Tools and information mode.
+8. Password Recovery Mode
+
+## First Time Initialization Mode
+When the program starts for the first time it must:
+1. Ask the user to agree to the terms as shown below.
+2. Ask the user to create and confirm a password.
+3. Ask the user if they want to enter a recovery email.
+4. Give the user a randomly created "picture password" with a "remember statement"
+5. Switch to Login in password Traning mode
+Terms
+```
+CloudCoin iPhone Edition
+Version: September 19, 2021
+Used to Authenticate, Store and Export CloudCoins
+This software is provided as is with all faults, defects
+and errors, and without any warranty of any kind. 
+Free from the CloudCoin Consortium. 
+```
+
+## Login Traning Mode
+The behavior changes everytime the user logs in.
+1. The user is promted for their password.
+2. If the user has already logged in seven times, go to Login in standard mode
+3. The user is show page one of the six picture tables. They are given hits according to the hint table. 
+4. If the user chooses the wrong picture, they are corrected and told the correct picture.
+5. The user repeats this for six pciture tables. 
+6. Go To Dashboard
+
+## Login in Standard Mode
+1. The user is promted for their password.
+2. The user is show page one of the six picture tables. No hints are given
+3. The user repeats this for six pciture tables. 
+4. If the user cannot enter their password correctly, go to Password Recovery Mode. 
+5. Go To Dashboard
+
+
+## Dashboard Mode
+User sees their balance. 
+They have the option to import coins
+They have the option to export coins
+They have the option to look at tools
+
+## Importing mode
+## Exporting mode
+
+The iPhone app will be different from all other applications because it will not depend so much on files full of authenticty numbers
+but instead will rely on passwords that generate authenticty numbers. Because of this reason, the passwords have to be secure. To stop loss, everytime
+the serial numbers are changed in the application, the user will receive a backup in their email. 
+
+
+
+To increase the security, the login will use a combination of pictograms and a traditional password. 
+
+The first time the user uses the program, the system will generate a story for the user using the following logic.
+
+```
+"There once was a ______ who was ________ near a __________ when a magic _________ appeared. When the _______ ________ it, it caused a _________"
+
+Samples:
+There once was a viking who was digging near a zoo when a magic chicen appeared. When the Viking studied it, it caused a Ice Age.
+
+There once was a Robot who was talking near a theater when a magic flashlight appeared. When the robot poked it, it caused a time warp.
+
+There once was a Farmer who was drinking near a museum when a magic necklass appeared. When the farmer sat on it, it caused a Fire.
+```
+
+There will be six screens that the user will need to go through to log into the program along with a password at the end.
+
+
+
+The user will be shown a screen with 32 icons on it. Each icon will have a position of 1 through 32. Each postion shall have its own color and the icon shall be of that color. 
+
+The co
+
+
+The user will be provided a pictogram and they will be expected to create their own password
 
 Number | Color | Character | Verb | Place | Thing | Verb | Event
 ---|---|---|---|---|---|---|---
