@@ -4,13 +4,13 @@ Instructions for iPhone App
 The iPhone app will have 8 different states:
 
 1. First Time Initialization Mode
-2. Login in password training Mode
-3. Login in standard Mode
+2. Login with Password Training Mode
+3. Standard Login Mode
 4. Dashboard Mode
 5. Importing Mode
 6. Exporting Mode
 7. Tools and information Mode.
-8. Password Recovery Mode
+8. Password Recovery Mode //This may be phase 2
 
 ## 👤First Time Initialization Mode
 When the program starts for the first time it must:
@@ -53,7 +53,7 @@ Login Number | Wrong Picture Opacity | Correct Picture Border Opacity | Shows Co
 
 
 
-## ⎆Login in Standard Mode
+## ⎆Standard Login Mode
 1. The user is promted for their password.
 2. The user is show page one of the six picture tables. No hints are given
 3. The user repeats this for six pciture tables. 
@@ -71,6 +71,12 @@ They have the option to look at tools
 Use existing plans
 ## Exporting mode
 Use existing plans
+## Tools and Information Mode
+This will display these things:
+1. The phone number and email of our support
+2. The news from the RAIDA's news service
+3. The Terms and Conditions
+4. A button that says "Fix Fracked Coins"
 
 # 🖼Picture Password System
 
