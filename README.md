@@ -12,7 +12,7 @@ The iPhone app will have 8 different states:
 7. Tools and information Mode.
 8. Password Recovery Mode
 
-## 🥇First Time Initialization Mode
+## 👤First Time Initialization Mode
 When the program starts for the first time it must:
 1. Ask the user to agree to the terms as shown below.
 2. Ask the user to create and confirm a password.
@@ -31,7 +31,7 @@ and errors, and without any warranty of any kind.
 Free from the CloudCoin Consortium. 
 ```
 
-## 🥈Login Traning Mode
+## 🎓Login Traning Mode
 The behavior changes everytime the user logs in.
 1. The user is promted for their password.
 2. If the user has already logged in seven times, go to Login in standard mode
@@ -53,7 +53,7 @@ Login Number | Wrong Picture Opacity | Correct Picture Border Opacity | Shows Co
 
 
 
-## 🥉Login in Standard Mode
+## ⎆Login in Standard Mode
 1. The user is promted for their password.
 2. The user is show page one of the six picture tables. No hints are given
 3. The user repeats this for six pciture tables. 
@@ -72,7 +72,7 @@ Use existing plans
 ## Exporting mode
 Use existing plans
 
-# Picture Password System
+# 🖼Picture Password System
 
 The iPhone App will be the first CloudCoin program that will not store CloudCoin Authenticity Numbers in files. Instead it will only store Serial Numbers
 and they will all be stored in one PNG file. 
