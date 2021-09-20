@@ -161,7 +161,10 @@ Number | Color | Character | Verb | Place | Thing | Verb | Event
 31  | #CD853F | Vampire | Talking | Football Field | lantern | licked |  animal attack,
 32  | #8B0000 | Magistion | Complaining | Gymnasium |  ring | punched |  drought
 
-lifted, rolled, dropped, broke, stabbed, bit, ate, lost,  yelled, 
+## Storing Serial Numbers in Files
+
+The format type will be 2 (Store in mind)
+https://github.com/worthingtonse/RAIDAX/blob/main/file_format.md
 
 We will use the new "Store in Mind" technology for the iPhone. There is one catch. We need to store the serial numbers of the coins. 
 There will be three PNGs that will act as databases for the serial numbers and they will use the PNG file format.
@@ -172,5 +175,16 @@ Files include:
 3. cloudcoin.fracked.png
 4. cloudcoin.limbo.png
 
+## RAIDA Protocol
+We will use the SUper RAIDA protocol:
+https://github.com/worthingtonse/RAIDAX/blob/main/OFF_LEDGER.md
 
+Phase one of the iPhone app will use the following RAIDA services:
 
+1. Echo
+2. POWN
+3. Detect
+4. Get Ticket
+5. Find
+6. Fix
+7. News
