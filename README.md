@@ -23,12 +23,12 @@ When the program starts for the first time it must:
 
 Terms
 ```
-CloudCoin iPhone Edition
-Version: September 19, 2021
-Used to Authenticate, Store and Export CloudCoins
-This software is provided as is with all faults, defects
-and errors, and without any warranty of any kind. 
-Free from the CloudCoin Consortium. 
+               The CloudCoin Manager
+            Version: September 19, 2021
+  Used to Authenticate, Store and Export CloudCoins
+  This software is provided as is with all faults, defects
+     and errors, and without any warranty of any kind. 
+        Free from the CloudCoin Consortium. 
 ```
 
 ## 🎓Login Traning Mode
