@@ -101,7 +101,7 @@ There will be six screens that the user will need to go through to log into the 
 
 The user will be shown a screen with 32 icons on it. Each icon will have a position of 1 through 32. Each postion shall have its own color and the icon shall be of that color. 
 
-| 1 | 2 | 3 | 4
+ 1 | 2 | 3 | 4
 ---|---|---|---
 5 | 6| 7| 8
 9| 10| 11 | 12
@@ -111,7 +111,17 @@ The user will be shown a screen with 32 icons on it. Each icon will have a posit
 25 | 26| 27| 28
 29 | 30| 31| 32
 
+Sample of Screen full of Characters to pick from
 
+ 🙄 | 😔 | 😎 | 🤦
+---|---|---|---
+😢| 🤔| 😍| 😭
+🥰| 😆| 😁 | 😉
+😩 |🤗 | 😇| 😱
+😋 | 😜| 🙄| 😘
+🥰| 😆| 😁 | 😉
+😩 |🤗 | 😇| 😱
+😋 | 😜| 🙄| 😘
 The user will be provided a pictogram and they will be expected to create their own password
 
 Number | Color | Character | Verb | Place | Thing | Verb | Event
