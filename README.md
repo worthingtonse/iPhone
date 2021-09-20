@@ -3,13 +3,13 @@ Instructions for iPhone App
 
 The iPhone app will have 8 different states:
 
-1. First Time Initialization mode
-2. Login in password training mode
-3. Login in standard mode
+1. First Time Initialization Mode
+2. Login in password training Mode
+3. Login in standard Mode
 4. Dashboard Mode
-5. Importing mode
-6. Exporting mode
-7. Tools and information mode.
+5. Importing Mode
+6. Exporting Mode
+7. Tools and information Mode.
 8. Password Recovery Mode
 
 ## First Time Initialization Mode
@@ -39,6 +39,19 @@ The behavior changes everytime the user logs in.
 4. If the user chooses the wrong picture, they are corrected and told the correct picture.
 5. The user repeats this for six pciture tables. 
 6. Go To Dashboard
+
+Login Number | Wrong Picture Opacity | Correct Picture Border Opacity | Shows Correct Icon if user forgets
+---|---|---|---
+1 | 0% | 100% | Yes
+2 | 15% | 85% | Yes
+3 | 30% | 70% | Yes
+4 | 45% | 55% | Yes
+5 | 60% | 40% | Yes
+6 | 75% | 25% | Yes
+7 | 100% |  0% | Yes
+8 | 100% |  0% | No
+
+
 
 ## Login in Standard Mode
 1. The user is promted for their password.
