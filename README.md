@@ -122,6 +122,8 @@ Sample of Screen full of Characters to pick from
 🥰| 😆| 😁 | 😉
 😩 |🤗 | 😇| 😱
 😋 | 😜| 🙄| 😘
+
+
 The user will be provided a pictogram and they will be expected to create their own password
 
 Number | Color | Character | Verb | Place | Thing | Verb | Event
